@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3850
     wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39607#The-American-Indiansand-Manuscripts
 gutenberg_issued: '2012-05-04'
 gutenberg_type: Text
 identifiers:
